@@ -19,7 +19,7 @@
      exclude the program from the defender.
 3.  Start the application.
 4.  Pictures saved to  'C:\Users\<username>\Bad People Images'
-5.  Classified done, based on date and time.
+5.  Classification done, based on date and time.
 
 
 [Download the application](https://drive.google.com/file/d/1pFJfOz6y3MpbyQ4ZCCmvDUopQYWPPP5c/view?usp=share_link)
